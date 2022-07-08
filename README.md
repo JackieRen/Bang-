@@ -1,2 +1,2 @@
 # Bang-
-[is a top-down arena shooter.
+Bang is a top-down arena shooter.
